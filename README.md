@@ -5,4 +5,6 @@ Template for MVVM Architecture. This is basic template for android app follwing 
 
 
 How use this template
+
+
 Just press button "Use this template" and after that clone repo in your machine.
